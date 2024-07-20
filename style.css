@@ -1,0 +1,20 @@
+* {
+    line-height: 1.5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: rgb(209, 246, 246);
+}
+
+.align-center {
+    text-align: center;
+}
+
+ul li {
+    font-style: italic;
+    font-size: larger;
+}
+
+.recipe-title {
+    background-color: yellow;
+}
+
+.recipe-description {}
